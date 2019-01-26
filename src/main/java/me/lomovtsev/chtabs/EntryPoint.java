@@ -6,8 +6,7 @@ package me.lomovtsev.chtabs;
 public class EntryPoint {
 
     public static void main(String[] args) {
-        System.out.println("Check tabs in the super puper github account");
-
-		System.out.println("meh");
+		System.out.println("Check tabs in the super puper github account");
+        System.out.println("meh");
     }
 }
